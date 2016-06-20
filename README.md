@@ -13,7 +13,14 @@ TEST
   * Describe my changes
   * Mention all the members of my team
     	* Ask for feedback
-	
+
+
+    * foo
+       *  bar
+            * baz
+                * faz
+                
+                
 ```
 
 paragraph with right-to-left text
@@ -28,10 +35,7 @@ paragraph with right-to-left text
 
 
 
-    * foo
-       *  bar
-            * baz
-                * faz
+
 
     foo2
 
