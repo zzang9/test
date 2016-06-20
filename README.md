@@ -1,6 +1,79 @@
 # test
 TEST
 
+<ul>
+<li>Unordered list can use asterisks</li>
+<li>Or minuses</li>
+<li><p>Or pluses</p></li>
+</ul>
+
+<ol>
+<li>foo
+
+<ol>
+<li>bar
+
+<ol>
+<li>baz
+
+<ol>
+<li>faz</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li><p>foo2</p></li>
+</ol>
+
+<ul>
+<li>foo
+
+<ul>
+<li>bar
+
+<ul>
+<li>baz
+
+<ul>
+<li>faz</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><p>foo2</p></li>
+</ul>
+
+<ol>
+<li><p>foo</p>
+
+<ul>
+<li>bar
+
+<ol>
+<li>baz
+
+<ul>
+<li>faz</li>
+</ul></li>
+</ol></li>
+</ul></li>
+</ol>
+
+<ul>
+<li><p>foo</p>
+
+<ol>
+<li>bar
+
+<ul>
+<li>baz
+
+<ol>
+<li>faz</li>
+</ol></li>
+</ul></li>
+</ol></li>
+</ul>
+
+
 
 ### myHeader
 
