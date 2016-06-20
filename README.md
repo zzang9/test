@@ -86,12 +86,10 @@ TEST
   * Describe my changes
   * Mention all the members of my team
     	* Ask for feedback
-
-
-    * foo
-       *  bar
-            * baz
-                * faz
+        * foo
+           *  bar
+                * baz
+                    * faz
                 
                 
 ```
