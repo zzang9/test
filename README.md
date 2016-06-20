@@ -27,74 +27,28 @@ paragraph with right-to-left text
 {.letter-ordered}
 
 
-<ul>
-<li>Unordered list can use asterisks</li>
-<li>Or minuses</li>
-<li><p>Or pluses</p></li>
-</ul>
 
-<ol>
-<li>foo
+    * foo
+       *  bar
+            * baz
+                * faz
 
-<ol>
-<li>bar
+    foo2
 
-<ol>
-<li>baz
+    foo
+        bar
+            baz
+                faz
 
-<ol>
-<li>faz</li>
-</ol></li>
-</ol></li>
-</ol></li>
-<li><p>foo2</p></li>
-</ol>
+    foo2
 
-<ul>
-<li>foo
+    foo
+        bar
+            baz
+                faz
 
-<ul>
-<li>bar
+    foo
+        bar
+            baz
+                faz
 
-<ul>
-<li>baz
-
-<ul>
-<li>faz</li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><p>foo2</p></li>
-</ul>
-
-<ol>
-<li><p>foo</p>
-
-<ul>
-<li>bar
-
-<ol>
-<li>baz
-
-<ul>
-<li>faz</li>
-</ul></li>
-</ol></li>
-</ul></li>
-</ol>
-
-<ul>
-<li><p>foo</p>
-
-<ol>
-<li>bar
-
-<ul>
-<li>baz
-
-<ol>
-<li>faz</li>
-</ol></li>
-</ul></li>
-</ol></li>
-</ul>
