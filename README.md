@@ -87,7 +87,7 @@ TEST
   * Mention all the members of my team
     	* Ask for feedback
         * foo
-           *  bar
+           1.  bar
                 * baz
                     * faz
                 
